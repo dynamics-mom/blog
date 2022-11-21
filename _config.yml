@@ -20,10 +20,8 @@
 
 title: Dynamics-mom Blog!
 email: magda.rutkowska91@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Blog about life of a working mom, dynamics 365 business central, existing features, newest releases and projects. 
+The goal of the blog is to help new mothers find themselves on a market after a maternity leave. I want to share my experience and thoughts about the system and its environment. 
 baseurl: /blog
 url: http://dynamics-mom.github.io
 twitter_username: dynamics-mom
