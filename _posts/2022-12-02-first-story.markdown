@@ -27,25 +27,25 @@ A couple of tips:
 
 4. As I mentioned in previous point, write down the type of the new field if this is Boolean, Decimal, Text. If this is the list put the information to which dictionary table, it should refer to. If there is a possibility you can draw a picture how it’ll look like (see example below).
 
-<img width="482" alt="Picture2" src="https://user-images.githubusercontent.com/118689671/205383381-161aa3a1-4203-4b89-a31f-dce2f2e6ffab.png">
+<img alt="Picture2" src="https://user-images.githubusercontent.com/118689671/205383381-161aa3a1-4203-4b89-a31f-dce2f2e6ffab.png">
 
 5. For all the new fields, try to put the relation to the other tables, e.g., “the new field should be copied to the field to Posted Sales Header (112)”. Remember if that the field doesn’t exist on the second table, add it there as well. See the screens below, if I add something on the Sales Header, I should add it into Sales Invoice Header as well. Of course, not all new fields need to be copied, but always think of it.
 
-<img width="482" alt="Picture3" src="https://user-images.githubusercontent.com/118689671/205383440-41b45bee-42ae-4f3f-aead-b08af1f80f10.png">
+<img alt="Picture3" src="https://user-images.githubusercontent.com/118689671/205383440-41b45bee-42ae-4f3f-aead-b08af1f80f10.png">
 
-<img width="482" alt="Picture4" src="https://user-images.githubusercontent.com/118689671/205383469-8bca3775-5bb3-490d-8019-10540e8ae830.png">
+<img alt="Picture4" src="https://user-images.githubusercontent.com/118689671/205383469-8bca3775-5bb3-490d-8019-10540e8ae830.png">
 
 6. If it will be a new table/field, always put the name in English. It doesn’t matter which language the project is in. All the names need to be created in English. Then in cooperation with developers, the consultant should fill the translation file in. If it’s possible, ask your client for the translation.
 
-<img width="482" alt="Picture5" src="https://user-images.githubusercontent.com/118689671/205383763-5e491a35-e465-4a26-8576-9c150a77ce32.png">
+<img alt="Picture5" src="https://user-images.githubusercontent.com/118689671/205383763-5e491a35-e465-4a26-8576-9c150a77ce32.png">
 
 7. If there will be any calculations, explain exactly what to add, multiply, divide, etc. The best way is to provide all the names of fields that must be used, e.g., Quantity * Unit Price Excl. VAT * 10% and fill the results into new field called Transport Cost.
 8. Think about all possible scenarios. Let’s say we need to update some data by filling the field A. What should be done with the field B? Should it be changed? Should it stay the same? If it needs to be changed, so under which conditions. Trust me, developers ask all these questions while programming. 
 9. If you ask for the report correction, because it’s too complex to do it yourself in Word (yes, some reports consultants can correct by themselves), mark exactly which fields should be placed where. Explain what caption should be used and what data should be visible on the printout.
 
-<img width="414" alt="Picture6" src="https://user-images.githubusercontent.com/118689671/205383830-6920abf3-71e3-4a20-a944-107aecb1ee86.png">
+<img alt="Picture6" src="https://user-images.githubusercontent.com/118689671/205383830-6920abf3-71e3-4a20-a944-107aecb1ee86.png">
 
-<img width="482" alt="Picture7" src="https://user-images.githubusercontent.com/118689671/205383857-fa20f612-cdec-4c90-870d-0434c1817082.png">
+<img alt="Picture7" src="https://user-images.githubusercontent.com/118689671/205383857-fa20f612-cdec-4c90-870d-0434c1817082.png">
 
 10. Don’t hardcode anything. If you need to filter by any name, code, value ask to add it to the setup instead of putting the exact value in the code. 
 11. If this is possible put the pictures (no, not of yourself) 😊
