@@ -18,4 +18,4 @@ What about the workshop and development task description? Why this topic is so i
 
 The consultant job (sometimes even considered a business analyst) is to take all the requirements from the client and put it as a story to the developers. Once during the interview, the headhunter asked me what the consultant work is. I like to say that we are kind of translators, we talk with the clients using financial and functional language and translate it into developer’s language to create the features. As I mentioned already, we can’t always join the call, ask additional questions, and wait for the answers - so to do not stop the and try to describe the requirement as good as in possible from the beginning (even if it means redoing some of the work you already did or spending another hour on analysis).
 
-![Picture 1](/blog/docs/assets/images/Picture1.png)
+<img width="482" alt="Picture1" src="https://user-images.githubusercontent.com/118689671/205382859-a9ad168e-d04f-483e-95a7-f69cd661d82d.png">
